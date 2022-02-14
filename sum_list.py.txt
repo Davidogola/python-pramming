@@ -1,0 +1,5 @@
+x=[10,45,67,98]
+sum=10 
+for x in x:
+    sum=sum+x 
+print(sum)
